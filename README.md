@@ -4,6 +4,6 @@
 
 blabla
 
-42***client
+42***server
 
 noch eine Zeile
